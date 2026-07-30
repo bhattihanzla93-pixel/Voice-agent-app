@@ -1,0 +1,15 @@
+{
+  "name": "voice-agent-app",
+  "version": "1.0.0",
+  "description": "Bilingual (Urdu/English) in-browser voice Q&A agent backed by Claude.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
